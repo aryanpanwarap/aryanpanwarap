@@ -10,7 +10,7 @@ Welcome to my GitHub! I'm a passionate and curious **Data Analyst** with a stron
 - 🎓 Recent graduate with a focus on data analytics and business intelligence  
 - 🧠 Skilled in Python, SQL, Excel, PowerBi
 - 📈 Interested in solving real-world problems using data  
-- 📍 Based in Chitta+orgarh, India  
+- 📍 Based in Chittorgarh, India  
 
 ---
 
