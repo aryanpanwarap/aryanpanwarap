@@ -21,10 +21,16 @@ Welcome to my GitHub! I'm a passionate and curious **Data Analyst** with a stron
 - **Visualization**:  Power BI, Excel  
 - **Database**: MySQL
 - **Other**: Git, Jupyter Notebook
+  
+---
 
+## 📫 Let's Connect
 
-- aryanpanwar65700@gmail.com
-- 9145934478 ...
+- 📧 Email: aryanpanwar65700@gmail.com  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/aryan-panwar03/)  
+- 💻 [Portfolio Website](#) *(coming soon)*
+
+---
 
 <!---
 aryanpanwarap/aryanpanwarap is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
